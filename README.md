@@ -1,2 +1,3 @@
-# embedded_security_comprimising
-For teaching purpose, security comprising.
+# security_exploits
+For teaching purpose, security exploits, for embedded programming.
+
